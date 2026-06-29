@@ -1,0 +1,289 @@
+canonical_identifier: bkk:krp/KR3eq001/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq001/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藤氏醫談
+  identifiers:
+    krp: KR3eq001
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq001.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq001_000-jc.yaml, hash: 'sha256:c86ce513fe93ecc0180fb5ceb5713155a8ef5d722fddfdf1775dd10717a177ba'}
+  - {seq: 1, filename: KR3eq001_001-jc.yaml, hash: 'sha256:67a43968dd01431e24fd724268b56b16c17f3876252f2b9b0fc28dbc6c75a8a3'}
+  - {seq: 3, filename: KR3eq001_003-jc.yaml, hash: 'sha256:459816a35cb1e27c7a9a8511456c4573d01954f48545213c69e9bb4fcad0c137'}
+  - {seq: 0, filename: KR3eq001_000-jc.yaml, hash: 'sha256:6251aadc706e1240ca14151f05dbe9c78342a9c2d5f4d8397ac3e1e70fbf9fc7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq001_000-jc.markers.yaml, hash: 'sha256:76982440a5e4965a721edeecc6eb170c9db488dd12209a244db8235f0b09392f'}
+  - {seq: 1, role: markers, filename: assets/KR3eq001_001-jc.markers.yaml, hash: 'sha256:06c8832ebb300332cf939975588fb6a1a6ce6a4ba762c0364e05fd9d00613dce'}
+  - {seq: 3, role: markers, filename: assets/KR3eq001_003-jc.markers.yaml, hash: 'sha256:01abb21d2ac6a8016c7a643434675b5e1a13bfc508553a1a215c7545e9a9b674'}
+  - {seq: 0, role: markers, filename: assets/KR3eq001_000-jc.markers.yaml, hash: 'sha256:76982440a5e4965a721edeecc6eb170c9db488dd12209a244db8235f0b09392f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq001_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 208
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7581
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1684
+  label: 辨溫病時疫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d3
+    span:
+    - body
+    - 1684
+    - 2451
+  label: 疫疾汗解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d4
+    span:
+    - body
+    - 2451
+    - 2840
+  label: 決死生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d5
+    span:
+    - body
+    - 2840
+    - 3649
+  label: 辨補與養
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d6
+    span:
+    - body
+    - 3649
+    - 4446
+  label: 草根木皮可補元氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d7
+    span:
+    - body
+    - 4446
+    - 5095
+  label: 尊信李杲薛己
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d8
+    span:
+    - body
+    - 5095
+    - 5828
+  label: 祖述靈素難經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d9
+    span:
+    - body
+    - 5828
+    - 6641
+  label: 補湯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d10
+    span:
+    - body
+    - 6641
+    - 7199
+  label: 臟腑配當
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq001_jc_001-d3d11
+    span:
+    - body
+    - 7199
+    - 7581
+  label: 左右偏勝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 8644
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2631
+  label: 雜說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d3
+    span:
+    - body
+    - 2631
+    - 2975
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d4
+    span:
+    - body
+    - 2975
+    - 3031
+  label: 太陽病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d5
+    span:
+    - body
+    - 3031
+    - 3329
+  label: 陽明病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d6
+    span:
+    - body
+    - 3329
+    - 3562
+  label: 少陽病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d7
+    span:
+    - body
+    - 3562
+    - 3583
+  label: 太陰病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d8
+    span:
+    - body
+    - 3583
+    - 3627
+  label: 少陰病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d9
+    span:
+    - body
+    - 3627
+    - 3819
+  label: 厥陰病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d10
+    span:
+    - body
+    - 3819
+    - 4406
+  label: 時疫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d11
+    span:
+    - body
+    - 4406
+    - 5354
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d12
+    span:
+    - body
+    - 5354
+    - 8059
+  label: 腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq001_jc_003-d4d13
+    span:
+    - body
+    - 8059
+    - 8644
+  label: 虛勞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq001_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 94
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:a418cd88fa5d9a320e2a5f2865c9ed03a9cc8302482d45fde280c4c9dd78fa9b
